@@ -22,3 +22,14 @@ The following are the reasons for giving preference to the numpy array over list
 ways of creating NumPy arrays-:
 1. Using arange():
 2. Using random():
+3. Using ones():
+4. Using zeros():
+5.  Using linspace():
+
+Operations on Python NumPy Arrays
+1. Checking Data type:
+2. Finding Dimension:
+3. Finding ByteSize:
+4. Reshaping:
+5. Memory Layout:
+
