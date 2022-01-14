@@ -33,3 +33,11 @@ Operations on Python NumPy Arrays
 4. Reshaping:
 5. Memory Layout:
 
+Mathematical Functions on NumPy arrays
+1. add():
+2. subtract():
+3. multiply():
+4. divide():
+5. sqrt():
+
+
